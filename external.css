@@ -1,0 +1,29 @@
+             .container {
+                display: flex;
+            }
+            .content {
+                background-color:plum;
+                border: 2px cornsilk;
+                padding: 10px;
+                margin: 10px;           
+            }
+            .navi{
+                background: coral;
+            }
+            header {
+                background: blueviolet;
+                text-align: center;
+                color: pink;
+                padding-top: 20px;
+                min-height: 50px;
+                border-bottom: #0779e4 5px solid;
+            }
+            footer {
+                background:burlywood;
+                color: #ffffff;
+                text-align: center;
+                padding: 20px;
+                margin-top: 20px;
+            }
+        
+            
